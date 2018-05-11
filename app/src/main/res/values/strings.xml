@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">springlr</string>
+    <string name="facebook_app_id">205360503523711</string>
+    <string name="fb_login_protocol_scheme">fb205360503523711</string>
+    <string name="log_out">Log out</string>
+    <string name="account">Account</string>
+    <string name="update">UPDATE</string>
+    <string name="user_name">User Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="mobile">Mobile</string>
+</resources>
